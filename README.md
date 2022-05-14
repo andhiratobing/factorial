@@ -1,0 +1,1 @@
+- [Factorial](https://en.wikipedia.org/wiki/Factorial)
